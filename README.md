@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] User should be able get the weather via search input.
 - [ ] User should be able get the weather via geo-location.
 - [ ] Background should change via weather conditions.
+- [ ] User should be able to toggle between metric and emperical measurement.
 
 ## User Stories V2
 - [ ] User should be able to create a profile (Name, username, password, avatar).
