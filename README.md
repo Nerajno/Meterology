@@ -19,4 +19,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] User should be able to delete a journal entry.
 
 
-References  => https://www.youtube.com/watch?v=204C9yNeOYI, https://medium.com/@peterekeneeze/build-a-react-js-weather-app-with-stateless-functional-components-e61567004b54
+References  => https://www.youtube.com/watch?v=P0vsGO4svUM&t=640s, https://medium.com/@peterekeneeze/build-a-react-js-weather-app-with-stateless-functional-components-e61567004b54
