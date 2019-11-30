@@ -8,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] Background should change via weather conditions.
 - [ ] Load icons correspondsing to weather conditions. 
 - [ ] User should be able to search for cities and places outside the United States
+- [ ] User should be able to toggle between metric and emperical measurement.
 
 ## User Stories V2
 - [ ] User should be able to create a profile (Name, username, password, avatar).
@@ -17,6 +18,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] User should be able save the weather of the day and make a journal entry.
 - [ ] User should be able edit a weather journal entry.
 - [ ] User should be able to delete a journal entry.
-
-
-References  => https://www.youtube.com/watch?v=P0vsGO4svUM&t=640s, https://medium.com/@peterekeneeze/build-a-react-js-weather-app-with-stateless-functional-components-e61567004b54
