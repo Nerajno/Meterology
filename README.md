@@ -2,7 +2,7 @@ Metrotrology
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## User Stories
-- [ ] User should be able get the weather via search input (Town/City and Country)
+- [x] User should be able get the weather via search input (Town/City and Country)
 - [ ] User should be able get the weather via geo-location.
 - [ ] User should be able get the weather via zip code.
 - [ ] Background should change via weather conditions.
