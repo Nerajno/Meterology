@@ -6,6 +6,7 @@ import Weather from './Components/Weather';
 class App extends React.Component {
 	state = {
 		city: undefined,
+		state: undefined,
 		country: undefined,
 		temperature: undefined,
 		humidity: undefined,
@@ -66,9 +67,11 @@ class App extends React.Component {
 							<div className="row">
 								<div className="col-xs-5 title-container">
 									<Titles />
-									<div className="col-xs-7 form-container">
+									<div className="col-xs-7 form-container align-items-center">
 										<Form getWeather={this.getWeather} />
+	
 										<Weather
+					
 											city={this.state.city}
 											country={this.state.country}
 											temperature={this.state.temperature}
@@ -90,6 +93,3 @@ class App extends React.Component {
 		}
 		
 		export default App;
-		
-{/* 
- */}
