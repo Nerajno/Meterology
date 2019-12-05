@@ -53,6 +53,7 @@ body {
   height: 90vh;
   padding-top: 100px;
   padding-left: 50px;
+  padding-right: 50px;
   text-align: center;
   margin: 0 auto;
 
@@ -85,7 +86,7 @@ input:-webkit-autofill {
 button {
   border: 0;
   padding: 8px 20px;
-  margin: 0 2px;
+  margin: 10px 2px;
   border-radius: 2px;
   font-weight: lighter;
   letter-spacing: 1px;
@@ -139,4 +140,8 @@ button:active {
 
 .inputForm{
   font-family: "Roboto Slab", serif;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
 }
