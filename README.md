@@ -5,8 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [x] User should be able get the weather via search input (Town/City and Country)
 - [ ] User should be able get the weather via geo-location.
 - [ ] User should be able get the weather via zip code.
-- [ ] Background should change via weather conditions.
-- [ ] Load icons correspondsing to weather conditions. 
+- [ ] Background of Weather results/ section should change via the queried weather condition results.
+- [ ] Load icons correspondsing to the queried weather condition results. 
 - [ ] User should be able to search for cities and places outside the United States
 - [ ] User should be able to toggle between metric and emperical measurement.
 
