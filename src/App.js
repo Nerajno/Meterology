@@ -2,6 +2,8 @@ import React from 'react';
 import Titles from './Components/Titles';
 import Form from './Components/Form';
 import Weather from './Components/Weather';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 class App extends React.Component {
 	state = {
