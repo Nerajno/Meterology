@@ -25,7 +25,7 @@ class App extends React.Component {
 
 		const Api_Key = '0e9298136c7c17273ccec159a274dc0f';
 		// const cors_api_host = 'https://cors-anywhere.herokuapp.com/https://api.darksky.net/forecast/f8cbf1d9409a55b2a68c52e994d8777e/37.8267,-122.4233';
-		const cors_api_host = `http://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${Api_Key}`;
+		const cors_api_host = `https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${Api_Key}`;
 		
 		// const cors_api_host2 = `http://samples.openweathermap.org/data/2.5/weather?zip=${zipcode},us&appid=${Api_Key}`;
 		// => Use a function with a switch statement to check if which part of the form is used
