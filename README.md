@@ -3,8 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## User Stories
 - [x] User should be able get the weather via search input (Town/City and Country)
-- [ ] User should be able get the weather via geo-location.
 - [x] User should be able get the weather via zip code.
+- [ ] User should be able get the weather via geo-location.
 - [ ] User should be able to clear the queried weather results. 
 - [ ] Background of Weather results/ section should change via the queried weather condition results.
 - [ ] Load icons correspondsing to the queried weather condition results. 
@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## User Stories V2
 - [ ] User should be able to create a profile (Name, username, password, avatar).
--  [ ] User should be able to delete a profile.
+- [ ] User should be able to delete a profile.
 - [ ] User should be able to edit profile.
 - [ ] User should be able to Login/ Logout. 
 - [ ] User should be able save the weather of the day and make a journal entry.
